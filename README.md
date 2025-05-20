@@ -65,7 +65,4 @@ Access settings to configure:
     - Implement heat maps showing usage patterns by hour of day
     - Create monthly and yearly summary views
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
